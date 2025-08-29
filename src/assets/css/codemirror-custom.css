@@ -1,0 +1,37 @@
+/* 覆盖CodeMirror注释的斜体样式 */
+.cm-s-solarized .cm-comment {
+  font-style: normal !important;
+}
+
+.cm-s-monokai .cm-comment {
+  font-style: normal !important;
+}
+
+.cm-s-material .cm-comment {
+  font-style: normal !important;
+}
+
+.cm-s-idea .cm-comment {
+  font-style: normal !important;
+}
+
+.cm-s-eclipse .cm-comment {
+  font-style: normal !important;
+}
+
+.cm-s-base16-dark .cm-comment {
+  font-style: normal !important;
+}
+
+.cm-s-cobalt .cm-comment {
+  font-style: normal !important;
+}
+
+.cm-s-dracula .cm-comment {
+  font-style: normal !important;
+}
+
+/* 默认主题的注释样式 */
+.cm-s-default .cm-comment {
+  font-style: normal !important;
+} 
