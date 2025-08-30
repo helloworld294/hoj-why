@@ -4,7 +4,9 @@ HOJ(⚡🔥Hcode Online Judge(HOJ)🔥⚡：基于SpringCloud与Vue前后端分�
 ### 如何安装？
 - 请您先进行HOJ的部署，https://gitee.com/himitzh0730/hoj-deploy
 - 部署完成后，请您 ```git clone https://gitee.com/whysblog/hoj-why.git /root/hoj-vue```
-###如何使用
+
+### 如何使用
+
 ``` cd /root/hoj-vue ```进入仓库
 #### 第一次使用 安装依赖
 ```
